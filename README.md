@@ -12,4 +12,4 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-I am in love about technology in general. I am currently looking for a job in the development field. I have a declared love for linux. I am overcoming myself more and more, constantly evolving.
+Eu sou apaixonado por tecnologia em geral. Atualmente, estou procurando emprego na área de desenvolvimento. Eu tenho um amor declarado pelo linux. Estou me superando cada vez mais, em constante evolução.
