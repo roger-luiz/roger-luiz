@@ -1,9 +1,15 @@
-<h1 align="center">
-  Hi there 👋 I'm Roger
-</h1>
+<h1>Hi there, I'm Roger</h1>
 
-<a href="https://www.instagram.com/rogersluiz_/" target="_blank" rel="external" media="screen" hreflang="pt" type="text/html">
+<a href="https://www.instagram.com/rogersluiz_/">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="twitter">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+
+<a href="linkedin">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 
