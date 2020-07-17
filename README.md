@@ -2,7 +2,10 @@
   Hi there 👋 I'm Roger
 </h1>
 
-https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white (https://www.instagram.com/rogersluiz_/)
+<a href="https://www.instagram.com/rogersluiz_/" target="_blank" rel="external" media="screen" hreflang="pt" type="text/html">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
 
 Estudante de programação.
 
