@@ -14,7 +14,7 @@
 
 I'm 16 years old, I'm living in Minas Gerais, BR. I am love about Back-end development technologies and cybersecurity. I am an independent student and I like to study for the official documentation of the technologies.
 
-# 🚀 Skills
+# 💻 Skills
 
 - [x] HTML / CSS
 - [x] Javascript + ES6
