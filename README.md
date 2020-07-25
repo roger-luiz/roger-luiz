@@ -19,7 +19,8 @@ I'm 16 years old, I'm living in Minas Gerais, BR. I am love about Back-end devel
 # 🚀 Skills
 
 - [x] HTML / CSS
-- [x] JavaScript + ES6
+- [x] Javascript + ES6
 - [x] ReactJs
 - [x] NodeJs
 - [x] Electron
+- [x] Typescript
