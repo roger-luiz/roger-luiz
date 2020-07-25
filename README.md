@@ -1,7 +1,5 @@
 <h1>Hi there, I'm Roger</h1>
 
-![alt text](https://github.com/urielcaire/learnmd/blob/master/imgs/solaire.gif "Praise the sun!")
-
 <a href="https://www.instagram.com/rogersluiz_/">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </a>
