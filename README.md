@@ -13,5 +13,3 @@
 </a>
 
 I'm 16 years old, I'm living in Minas Gerais, BR. I am passionate about Back-end development technologies and cybersecurity. I am an independent student and I like to study for the official documentation of the technologies.
-
- - Stack: Javascript ( NodeJs, Typescript, ReactJs, Electron )
