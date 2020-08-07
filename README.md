@@ -18,10 +18,10 @@
 
 💬 Ask me about anything on my [Telegram](https://t.me/AB4NT5S)
 
-<p align="center">
+<p align="left">
   <img alt="Roger's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rogerluiz0&show_icons=true&hide_border=false&count_private=true" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rogerluiz0&layout=compact" />
 </p>
