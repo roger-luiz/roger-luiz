@@ -12,11 +12,17 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-## ⚡ About-me
+### ⚡ About-me
 
 > I'm 16 years old, I'm living in Minas Gerais, BR. I am passionate about Back-end and Front-end development technologies. I am an independent student and I like to study for the official documentation of the technologies.
 
-- 💬 Ask me about anything on my [Telegram](https://t.me/AB4NT5S)
+### 🚀 Technologies studied
+
+**Front-end:** HTML5, CSS3, JavaScript, 
+
+**Back-end:** NodeJs, Typescript
+
+💬 Ask me about anything on my [Telegram](https://t.me/AB4NT5S)
 
 <img float="right" alt="Roger's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rogerluiz0&show_icons=true&hide_border=false&count_private=true" />
 <img float="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rogerluiz0&layout=compact" />
