@@ -26,3 +26,7 @@
 
 <img float="right" alt="Roger's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rogerluiz0&show_icons=true&hide_border=false&count_private=true" />
 <img float="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rogerluiz0&layout=compact" />
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+Teste  |  Teste
