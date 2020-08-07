@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Roger</h1>
+<h1>Hi! I'm Roger</h1>
 
 <a href="https://www.instagram.com/rogersluiz_/">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
@@ -14,7 +14,7 @@
 
 ### ⚡ About-me
 
-> I'm 16 years old, I'm living in Minas Gerais, BR. I am passionate about Back-end and Front-end development technologies. I am an independent student and I like to study for the official documentation of the technologies.
+> I'm 16 years old, I'm living in Minas Gerais, BR. I am passionate about Back-end and Front-end development technologies. I am an independent student and I like to study for the official documentation of the technologies. I’m currently learning Node.js
 
 💬 Ask me about anything on my [Telegram](https://t.me/AB4NT5S)
 
