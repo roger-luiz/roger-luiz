@@ -14,7 +14,7 @@
 
 ### ⚡ About-me
 
-> I'm 16 years old, I'm living in Minas Gerais, BR. I am passionate about Back-end and Front-end development technologies. I am an independent student and I like to study for the official documentation of the technologies. I’m currently learning Node.js
+> Hi! I'm Roger, I'm 16 years old. I am passionate about Back-end and Front-end development technologies. Programming in my perspective is a beautiful art, Programming is more than talking in binary with the machine, programming is a super power that everyone can have! I’m currently learning Node.js
 
 💬 Ask me about anything on my [Telegram](https://t.me/AB4NT5S) <br>
 🚀 Rocketseat's profile [Rocketseat](https://app.rocketseat.com.br/me/roger)
