@@ -1,6 +1,6 @@
 <h1>Hi! I'm Roger ⚡</h1>
 
-<a href="https://www.instagram.com/rogersluiz_/" width="100px">
+<a href="https://www.instagram.com/rogersluiz_/" width="10px">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
