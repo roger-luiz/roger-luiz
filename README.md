@@ -1,7 +1,7 @@
 <h1>Hi! I'm Roger ⚡</h1>
 
 <a href="https://www.instagram.com/rogersluiz_/">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="20px">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="100px">
 </a>
 
 <a href="https://twitter.com/AB4NT5S">
