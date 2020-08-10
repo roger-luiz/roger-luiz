@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://twitter.com/AB4NT5S">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" width="10px">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" width="100px">
 </a>
 
 <a href="https://www.linkedin.com/in/roger-luiz-8361981b2/">
