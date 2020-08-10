@@ -7,10 +7,6 @@
 #### 💬 Ask me about anything on my [Telegram](https://t.me/AB4NT5S) <br>
 #### 🚀 Rocketseat's profile [Rocketseat](https://app.rocketseat.com.br/me/rogerluiz)
 
-<a href="https://twitter.com/AB4NT5S">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-
 <a href="https://www.linkedin.com/in/roger-luiz-8361981b2/">
   <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -18,6 +14,11 @@
 <a href="https://www.instagram.com/rogersluiz_/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
+
+<a href="https://twitter.com/AB4NT5S" width="70px">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+
 
 <details>
   <summary>Technical Information</summary>
