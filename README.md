@@ -1,4 +1,4 @@
-<h1>Hi! I'm Roger ⚡</h1>
+<h1>Hi! I'm Roger :zap:</h1>
 
 <a href="https://www.linkedin.com/in/roger-luiz-8361981b2/">
   <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
