@@ -16,7 +16,7 @@
 
 #### I am passionate about Back-end and Front-end development technologies. Programming is a beautiful art, Programming is more than talking in binary with the machine, programming is a super power that everyone can have! I’m currently learning Node.js.
 
-#### :speech_balloon: Let's chat about anything on the [Telegram](https://t.me/AB4NT5S) <br>
+#### :speech_balloon: Let's chat about anything on the [Telegram](https://t.me/AB4NT5S)
 #### :rocket: Rocketseat's profile [Rocketseat](https://app.rocketseat.com.br/me/rogerluiz)
 #### :purple_heart: Technologies I'm studying
  <p align="left">
