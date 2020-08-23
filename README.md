@@ -16,8 +16,8 @@
 
 #### Hi! I'm Roger, I'm 16 years old. I am passionate about Back-end and Front-end development technologies. Programming is a beautiful art, Programming is more than talking in binary with the machine, programming is a super power that everyone can have! I’m currently learning Node.js.
 
-#### 💬 Ask me about anything on my [Telegram](https://t.me/AB4NT5S) <br>
-#### 🚀 Rocketseat's profile [Rocketseat](https://app.rocketseat.com.br/me/rogerluiz)
+#### :speech_balloon: Ask me about anything on my [Telegram](https://t.me/AB4NT5S) <br>
+#### :rocket: Rocketseat's profile [Rocketseat](https://app.rocketseat.com.br/me/rogerluiz)
 #### :purple_heart: Technologies I'm studying
  <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50"/>
