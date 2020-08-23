@@ -20,15 +20,14 @@
 #### 🚀 Rocketseat's profile [Rocketseat](https://app.rocketseat.com.br/me/rogerluiz)
 #### Techs
  <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="50" height="50"/>
-  
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postegresql" width="50" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
 </p>
 
 <details>
