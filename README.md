@@ -20,7 +20,7 @@
 #### 🚀 Rocketseat's profile [Rocketseat](https://app.rocketseat.com.br/me/rogerluiz)
 #### Techs
  <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="50" height="50"/>
