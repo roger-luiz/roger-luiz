@@ -18,7 +18,7 @@
 
 #### 💬 Ask me about anything on my [Telegram](https://t.me/AB4NT5S) <br>
 #### 🚀 Rocketseat's profile [Rocketseat](https://app.rocketseat.com.br/me/rogerluiz)
-#### Technologies I'm studying
+#### :purple_heart: Technologies I'm studying
  <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/>
