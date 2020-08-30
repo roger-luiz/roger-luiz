@@ -14,7 +14,7 @@
 
 ### About-me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
-#### I am passionate about Back-end and Front-end development technologies. I'm studying to get certified in Cybersecurity and Information Security. I love programming, programming is a beautiful art, Programming is more than talking in binary with the machine, programming is a super power that everyone can have! 
+#### I am passionate about Front-end and Back-end development technologies. I'm studying to get certified in Cybersecurity and Information Security. I love working with malwares and looking for security holes in web applications.
 
 #### :speech_balloon: Let's chat about anything on the [Telegram](https://t.me/AB4NT5S)
 #### :rocket: Rocketseat's profile [Rocketseat](https://app.rocketseat.com.br/me/rogerluiz)
@@ -27,6 +27,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 </p>
 
 <details>
