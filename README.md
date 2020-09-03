@@ -29,7 +29,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="50" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="50" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="50" height="50"/>
 </p>
 
 <details>
