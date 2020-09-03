@@ -18,7 +18,7 @@
 
 #### :speech_balloon: Let's chat about anything on the [Telegram](https://t.me/AB4NT5S)
 #### :rocket: Rocketseat's profile [Rocketseat](https://app.rocketseat.com.br/me/rogerluiz)
-#### :purple_heart: Technologies I'm studying
+#### :purple_heart: Technologies and Tools
  <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="html" width="35" height="35"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="css" width="35" height="35"/>
@@ -26,7 +26,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="35" height="35"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="35" height="35"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="35" height="35"/>
