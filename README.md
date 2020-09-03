@@ -37,9 +37,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="35" height="35"/>
 </p>
 
-<details>
-  <summary>Technical Information</summary>
-  <p align="center">
-    <img alt="Roger's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rogerluiz0&show_icons=true&hide_border=false&count_private=true"/>
-  </p>
-</details>
+<p align="center">
+  <img alt="Roger's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rogerluiz0&show_icons=true&hide_border=false&count_private=true"/>
+</p>
