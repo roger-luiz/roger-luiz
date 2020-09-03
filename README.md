@@ -14,7 +14,7 @@
 
 ### About-me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
-#### I am passionate about Front-end and Back-end development technologies. I'm studying to get certified in Cybersecurity and Information Security. I love working with malwares and looking for security holes in web applications.
+#### I am passionate about Front-end and Back-end development technologies. I'm studying to get certified in Cybersecurity and Information Security. I love working with malwares and looking for security holes in web applications. I am passionate about chess and learning new things.
 
 #### :speech_balloon: Let's chat about anything on the [Telegram](https://t.me/AB4NT5S)
 #### :rocket: Rocketseat's profile [Rocketseat](https://app.rocketseat.com.br/me/rogerluiz)
