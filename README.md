@@ -20,7 +20,7 @@
 #### :rocket: Rocketseat's profile [Rocketseat](https://app.rocketseat.com.br/me/rogerluiz)
 #### :purple_heart: Languages and Tools
  <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html" width="35" height="35"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
