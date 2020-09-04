@@ -1,16 +1,10 @@
 <h1>Hi! I'm Roger :zap:</h1>
 
-<a href="https://www.linkedin.com/in/roger-luiz-8361981b2/">
-  <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://www.instagram.com/rogersluiz_/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="https://twitter.com/AB4NT5S">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" width="75px">
-</a>
+<p>
+  <a href="https://twitter.com/AB4NT5S"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Roger's twitter" height="20" width="20" /></a>
+  <a href="https://www.linkedin.com/in/roger-luiz-8361981b2/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Roger's linkedin" height="20" width="20" /></a>
+  <a href="https://www.instagram.com/rogersluiz_/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Roger's instagram" height="20" width="20" /></a>
+</p>
 
 ### About-me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
@@ -32,10 +26,4 @@
 
 <p align="center">
   <img alt="Roger's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rogerluiz0&show_icons=true&hide_border=false&count_private=true"/>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/AB4NT5S" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Roger's twitter" height="20" width="20" /></a>
-  <a href="https://www.linkedin.com/in/roger-luiz-8361981b2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Roger's linkedin" height="20" width="20" /></a>
-  <a href="https://www.instagram.com/rogersluiz_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Roger's instagram" height="20" width="20" /></a>
 </p>
