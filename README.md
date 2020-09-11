@@ -18,7 +18,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
-  <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
   <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40"/>
 </p>
 
