@@ -5,7 +5,7 @@
 #### I am passionate about Front-end and Back-end development technologies. I am currently focused on fullstack development with javascript, but in the future I intend to specialize in Back-end development with Node.js. I like to work with web development and sometimes desktop. I am passionate about chess and learning new things.
 
 #### :speech_balloon: Let's chat about anything on the [Telegram](https://t.me/AB4NT5S)
-#### :rocket: Rocketseat's profile [Rocketseat](https://app.rocketseat.com.br/me/rogerluiz)
+
 #### :purple_heart: Languages and Tools
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="html" width="40" height="40"/>
