@@ -6,7 +6,7 @@
 
 #### :speech_balloon: Let's chat about anything on the [Telegram](https://t.me/AB4NT5S) and We can connect at [Rocketseat](https://app.rocketseat.com.br/me/rogerluiz)
 
-#### :purple_heart: Languages and Tools
+#### :rocket: Languages and Tools
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="html" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" height="40"/>
