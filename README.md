@@ -2,7 +2,8 @@
 
 ### About-me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
-- I'm currently focused on front-end development.
+- I'm currently focused on web development.
+- Front-end, Back-end, DevOps, Database, UI/UX.
 
 #### :rocket: Languages and Tools
 <p align="left">
