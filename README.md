@@ -1,10 +1,8 @@
-<h1>Hi! I'm Roger :zap:</h1> 
+<h1>Hi! I'm Roger</h1> 
 
 ### About-me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
 #### I am passionate about Front-end and Back-end development technologies. I'm full stack javascript developer, I'm currently focused on front-end development, but in the future I intend to specialize in Back-end development with Node.js. I like to work with web development and sometimes desktop. I am passionate about chess and learning new things.
-
-#### :speech_balloon: Let's chat about anything on the [Telegram](https://t.me/AB4NT5S) and We can connect at [Rocketseat](https://app.rocketseat.com.br/me/rogerluiz)
 
 #### :rocket: Languages and Tools
 <p align="left">
