@@ -2,7 +2,7 @@
 
 ### About-me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
-#### I am passionate about Front-end and Back-end development technologies. I'm full stack javascript developer, I'm currently focused on front-end development, but in the future I intend to specialize in Back-end development with Node.js. I like to work with web development and sometimes desktop. I am passionate about chess and learning new things.
+- I'm currently focused on front-end development.
 
 #### :rocket: Languages and Tools
 <p align="left">
