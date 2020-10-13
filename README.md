@@ -1,6 +1,4 @@
-<h1>Hi! I'm Roger</h1> 
-
-### About-me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
+## About-me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
 - I'm currently focused on web development.
 - Front-end, Back-end, DevOps, Database, UI/UX.
