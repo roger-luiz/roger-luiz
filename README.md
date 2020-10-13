@@ -4,6 +4,8 @@
 - **Front-end, Back-end, DevOps, Database, UI/UX.**
 - Looking for an opportunity as an intern in the development area.
 
+> You just have to get started
+
 #### :rocket: Languages and Tools
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="html" width="40" height="40"/>
