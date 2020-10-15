@@ -3,6 +3,7 @@
 - I'm currently focused on web development.
 - **Front-end, Back-end, DevOps, Database, UI/UX.**
 - Looking for an opportunity as an intern in the development area.
+- About-me: Passionate about comics, series and movies!
 
 > You just have to get started
 
