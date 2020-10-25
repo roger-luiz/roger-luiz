@@ -2,7 +2,7 @@
 
 - I'm currently focused on web development.
 - I'm currently studying: VueJs, Typescript and NodeJs.
-- **Front-end, Back-end, DevOps, Database, UI/UX.**
+- **Front-end, Back-end, Database, UI/UX.**
 - Looking for an opportunity as an intern in the development area.
 
 > You just have to get started
