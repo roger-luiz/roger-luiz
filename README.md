@@ -1,7 +1,7 @@
 ## About-me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
 - I'm currently focused on web development.
-- I'm currently studying: VueJs, Typescript and NodeJs.
+- I'm currently studying: **VueJs** and **NodeJs**.
 - **Front-end, UI/UX, Back-end, Database.**
 - Looking for an opportunity as an intern in the development area.
 
