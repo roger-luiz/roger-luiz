@@ -6,7 +6,7 @@
 - :eyes: Looking for an opportunity as an intern in the development area.
 - **Front-end, UI/UX, Back-end, Database.**
 
-> You just have to get started
+> No one does when they begin. Ideas don’t come out fully formed. They only become clear as you work on them. You just have to get started.
 
 ### Languages and Tools
 <p align="left">
