@@ -1,6 +1,6 @@
 ## About-me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
-- :computer: I'm currently focused on **Web Development**.
+- :computer: I'm a **Web Development**.
 - :rocket: I'm currently studying and going deeper in: **CSS**, **VueJs** and **NodeJs**.
 - :zap: Studying to become a full stack Javascript developer
 - :eyes: Looking for an opportunity as an intern in the development area.
