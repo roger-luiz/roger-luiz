@@ -22,6 +22,7 @@
 
 <p align="center">
   <img alt="Roger's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rogerluiz0&show_icons=true&hide_border=false&count_private=true"/>
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </p>
 
 <p align="center">
