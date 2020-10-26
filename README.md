@@ -1,14 +1,14 @@
 ## About-me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
-- :computer: I'm currently focused on web development.
+- :computer: I'm currently focused on **Web Development**.
 - :rocket: I'm currently studying and going deeper: **CSS**, **VueJs** and **NodeJs**.
-- Studying to become a full stack Javascript developer
+- :zap: Studying to become a full stack Javascript developer
 - :eyes: Looking for an opportunity as an intern in the development area.
 - **Front-end, UI/UX, Back-end, Database.**
 
 > You just have to get started
 
-#### :rocket: Languages and Tools
+#### Languages and Tools
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="html" width="35" height="35"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="css" width="35" height="35"/>
