@@ -8,7 +8,7 @@
 
 ## My goals
 
-- :moneybag: Learning to undertake.
+- :moneybag: Learning to invest and undertake.
 - :briefcase: Open my own company.
 - :mortar_board: Helping people through programming.
 - :smiley: Contribute to the community.
