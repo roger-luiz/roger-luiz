@@ -2,7 +2,7 @@
 
 - :computer: I'm a **Web Development**.
 - :rocket: I'm currently studying and going deeper in: **CSS** and **Javascript**.
-- :zap: Studying to become a full stack Javascript developer
+- :zap: Studying to become a full stack Javascript developer.
 - :eyes: Looking for an opportunity as an intern in the development area.
 - **Front-end, UI/UX, Back-end, Database.**
 
