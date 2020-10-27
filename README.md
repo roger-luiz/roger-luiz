@@ -10,7 +10,7 @@
 
 - :moneybag: To learn to invest and undertake.
 - :briefcase: To open my own company.
-- :mortar_board: Helping people through programming.
+- :mortar_board: To help people through programming.
 - :smiley: Contribute to the community.
 
 > Ideas don’t come out fully formed. They only become clear as you work on them. You just have to get started.
