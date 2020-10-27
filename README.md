@@ -6,6 +6,13 @@
 - :eyes: Looking for an opportunity as an intern in the development area.
 - **Front-end, UI/UX, Back-end, Database.**
 
+## My goals
+
+- :moneybag: Learning to undertake.
+- :briefcase: Open my own company.
+- :mortar_board: Helping people through programming.
+- :smiley: Contribute to the community.
+
 > Ideas don’t come out fully formed. They only become clear as you work on them. You just have to get started.
 
 ### Languages and Tools
