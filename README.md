@@ -2,7 +2,7 @@
 
 - :computer: I'm a **Web Development**.
 - :rocket: I'm currently studying and going deeper in: **CSS** and **Javascript**.
-- :zap: Front-end, UI/UX.
+- :zap: **Front-end Engineer**, **UX/UI Design**.
 - :eyes: Looking for an opportunity as an intern in the development area.
 
 ## My goals
