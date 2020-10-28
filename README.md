@@ -2,9 +2,8 @@
 
 - :computer: I'm a **Web Development**.
 - :rocket: I'm currently studying and going deeper in: **CSS** and **Javascript**.
-- :zap: Studying to become a full stack Javascript developer.
+- :zap: Front-end, UI/UX.
 - :eyes: Looking for an opportunity as an intern in the development area.
-- **Front-end, UI/UX, Back-end, Database.**
 
 ## My goals
 
@@ -23,7 +22,7 @@
   <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vue" width="35" height="35"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/>
+  <img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="express" width="35" height="35"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="35" height="35"/>
   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="35" height="35"/>
 </p>
