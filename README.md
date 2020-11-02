@@ -1,7 +1,7 @@
 ## About-me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
 - :computer: I'm a **web** and **desktop** developer.
-- :rocket: I'm currently studying and going deeper in: **CSS**, **Javascript** and **Nodejs**.
+- :rocket: I'm currently studying and going deeper in: **HTML5**, **CSS3**, **Javascript** and **Nodejs**.
 - :zap: **Front-end Engineer**, **UX/UI Design**.
 - :eyes: Looking for an opportunity as an intern in the development area.
 
