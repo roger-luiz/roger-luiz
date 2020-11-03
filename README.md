@@ -8,6 +8,7 @@
 > Ideas don’t come out fully formed. They only become clear as you work on them. You just have to get started.
 
 ### Languages and Tools
+
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="html" width="35" height="35"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="css" width="35" height="35"/>
