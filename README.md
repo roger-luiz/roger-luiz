@@ -2,7 +2,7 @@
 
 - :computer: **Web Developer**.
 - :rocket: Currently mastering: **CSS**, **Javascript**, **Design Patterns**, **POO**, **RegExp**.
-- :zap: **Front-end Engineer**, **UX/UI Design**.
+- :zap: **Front-end Engineer**, **UI Design**.
 - :eyes: Looking for an opportunity as an intern in the development area.
 
 > "Ideas don’t come out fully formed. They only become clear as you work on them. You just have to get started." ― Mark Zuckerberg
