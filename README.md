@@ -1,7 +1,7 @@
 ## Hey, I'm Roger Luiz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
 - :computer: **Web Developer**.
-- :rocket: Currently mastering: **CSS**, **Javascript**, **Design Patterns**, **POO**, **RegExp**.
+- :rocket: Currently mastering: **CSS**, **Javascript**, **Design Patterns**, **Clean Code**, and **POO**.
 - :zap: **Front-end Engineer**, **UI Design**.
 - :eyes: Looking for an opportunity as an intern in the development area.
 
