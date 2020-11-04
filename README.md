@@ -5,7 +5,7 @@
 - :zap: **Front-end Engineer**, **UX/UI Design**.
 - :eyes: Looking for an opportunity as an intern in the development area.
 
-> Ideas don’t come out fully formed. They only become clear as you work on them. You just have to get started.
+> "Ideas don’t come out fully formed. They only become clear as you work on them. You just have to get started." ― Mark Zuckerberg
 
 ### Languages and Tools
 
