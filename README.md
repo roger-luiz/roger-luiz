@@ -4,7 +4,7 @@
 - :rocket: **Currently mastering**: CSS, Javascript, Design Patterns, Clean Code.
 - :zap: **Front-end Engineer**, **UI Design**.
 - :eyes: **Looking for an opportunity as an intern in the development area.**
-- **My goals**: Contribute to the community and To help people through programming.
+- white_check_mark: **My goals**: Contribute to the community and To help people through programming.
 
 > "Ideas don’t come out fully formed. They only become clear as you work on them. You just have to get started." ― Mark Zuckerberg
 
