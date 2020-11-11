@@ -1,6 +1,6 @@
 ## Hey, I'm Roger Luiz <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
-- :computer: **Web Developer** ( **Front-end Engineer** ).
+- :computer: **Web Developer** ( **Front-end Engineer** )
 - :rocket: **Currently mastering**: CSS, Javascript, Design Patterns, Clean Code.
 - :eyes: **Looking for an opportunity as an intern in the development area.**
 - :zap: **My goals**: Contribute to the community and To help people through programming.
@@ -16,7 +16,8 @@
   <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vue" width="35" height="35"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/>
-  <img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="express" width="35" height="35"/>
+  <img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/>
+  <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="35" height="35"/>
   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="35" height="35"/>
 </p>
