@@ -3,11 +3,7 @@
 - :computer: **Web Developer** ( **Front-end Engineer** )
 - :rocket: **Currently mastering**: CSS, Javascript, Design Patterns, Clean Code.
 - :eyes: **Looking for an opportunity as an intern in the development area.**
-
-### My goals
-- :zap: Aunch a real product with Vuejs and Nodejs
-- :zap: Contribute to the community.
-- :zap: To help people through programming.
+- :zap: **My goals**: Aunch a real product with Vuejs and Nodejs, Contribute to the community and To help people through programming.
 
 > "Ideas don’t come out fully formed. They only become clear as you work on them. You just have to get started." ― Mark Zuckerberg
 
