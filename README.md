@@ -8,16 +8,16 @@
 ### Languages and Tools
 
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="html" width="35" height="35"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="css" width="35" height="35"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> 
-  <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vue" width="35" height="35"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/>
-  <img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/>
-  <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="35" height="35"/>
-  <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="35" height="35"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="html" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="css" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+  <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vue" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+  <img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
+  <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="30" height="30"/>
+  <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/>
 </p>
 
 <p align="center">
