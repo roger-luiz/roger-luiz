@@ -3,7 +3,7 @@
 - :computer: **Web Developer** ( **Front-end Engineer** )
 - :rocket: **Currently mastering**: CSS, Javascript, Design Patterns, Clean Code.
 - :eyes: **Looking for an opportunity as an intern in the development area.**
-- :zap: **My goals**: Aunch a real product with Vuejs and Nodejs, Contribute to the community and To help people through programming.
+- :zap: **My goals**: Contribute to the community and To help people through programming.
 
 ### Languages and Tools
 
