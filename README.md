@@ -21,12 +21,12 @@
 </p>
 
 <p align="center">
-  <img align="left" alt="Roger's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roger3g&show_icons=true&hide_border=false&count_private=true"/>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/abantes_"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Roger's twitter" height="20" width="20"/></a>
+  <img style="display: block;" align="left" alt="Roger's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roger3g&show_icons=true&hide_border=false&count_private=true"/>
+    <a href="https://twitter.com/abantes_"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Roger's twitter" height="20" width="20"/></a>
   <a href="https://www.linkedin.com/in/roger-luiz-8361981b2/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Roger's linkedin" height="20" width="20" /></a>
   <a href="https://www.instagram.com/rogersluiz_/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Roger's instagram" height="20" width="20" /></a>
   <a href="https://stackoverflow.com/users/14442211/roger-luiz?tab=profile"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Roger's stackoverflow" height="20" width="20" /></a>
+</p>
+
+<p align="center">
 </p>
