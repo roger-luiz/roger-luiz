@@ -16,7 +16,6 @@
   <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vue" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="30" height="30"/>
   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/>
 </p>
