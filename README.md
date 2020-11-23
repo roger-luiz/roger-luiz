@@ -11,7 +11,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="html" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="css" width="30" height="30"/>
   <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
+  <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
   <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vue" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
