@@ -20,8 +20,12 @@
   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/>
 </p>
 
-<p align="center" style="display: block;">
+<p align="center">
   <img align="left" alt="Roger's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roger3g&show_icons=true&hide_border=false&count_private=true"/>
+</p>
+
+<p align="center">
+  <img alt="Roger's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=roger3g&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 </p>
 
 <p align="center">
