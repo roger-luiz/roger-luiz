@@ -1,9 +1,10 @@
 ## Hey, I'm Roger <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
 - :computer: Web Developer ( Front-end Engineer )
-- :rocket: **Currently mastering**: CSS, Javascript, Nodejs, VueJs, Design Patterns, Clean Code.
 - :eyes: Looking for an opportunity as an intern in the development area.
-- :zap: **My goals**: Contribute to the community and To help people through programming.
+- :zap: **Currently mastering**: CSS, Javascript, VueJs, Design Patterns, Clean Code.
+- :rocket: **My goals**: Launch a real product with VueJs and Nodejs and To help people through programming.
+- :speech_balloon: We can talk about anything on my discord **Abantes#2152**
 
 ### Languages and Tools
 
