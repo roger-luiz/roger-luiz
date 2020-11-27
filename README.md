@@ -24,7 +24,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="30" height="30"/>
   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/>
   <img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
   <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain.svg" alt="heroku" width="30" height="30"/>
