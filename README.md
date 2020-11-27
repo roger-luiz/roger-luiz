@@ -1,5 +1,13 @@
 ## Hey, I'm Roger <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/roger3g)](https://github.com/roger3g)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roger-luiz/)](https://www.linkedin.com/in/roger-luiz/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abantes_)](https://twitter.com/abantes_)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:rogerluiz010@gmail.com)](mailto:rogerluiz010@gmail.com)
+[![Facebook Badge]( https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/roger.luiz.790256/)
+[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rogersluiz_/?hl=pt-br)
+[![StackOverflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/users/14442211/roger-luiz?tab=profile)
+
 - :computer: Web Developer ( Front-end Engineer )
 - :eyes: Looking for an opportunity as an intern in the development area.
 - :zap: **Currently mastering**: CSS, Javascript, VueJs, Design Patterns, Clean Code.
@@ -24,10 +32,3 @@
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=roger3g&show_icons=true&hide_border=false&count_private=true"/> </p>
-
-<p align="center">
-  <a href="https://twitter.com/abantes_"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Roger's twitter" height="20" width="20"/></a>
-  <a href="https://www.linkedin.com/in/roger-luiz-8361981b2/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Roger's linkedin" height="20" width="20" /></a>
-  <a href="https://www.instagram.com/rogersluiz_/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Roger's instagram" height="20" width="20" /></a>
-  <a href="https://stackoverflow.com/users/14442211/roger-luiz?tab=profile"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Roger's stackoverflow" height="20" width="20" /></a>
-</p>
