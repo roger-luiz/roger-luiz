@@ -26,7 +26,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="30" height="30"/>
   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/>
   <img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain.svg" alt="heroku" width="30" height="30"/>
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=roger3g&show_icons=true&hide_border=false&count_private=true"/> </p>
