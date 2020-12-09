@@ -1,4 +1,8 @@
-## Hey, I'm Roger <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px">
+# Roger Luiz
+
+![](cyber.gif)
+
+---
 
 [![Portfólio Badge](https://img.shields.io/badge/Portfólio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white)](https://gist.github.com/roger3g/94eb77e77ed3edbe4e6ed02b50fe5a12)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roger-luiz/)](https://www.linkedin.com/in/roger-luiz/)
