@@ -9,7 +9,7 @@
 
 - :computer: Web Developer ( Front-end Engineer )
 - :eyes: Looking for an opportunity as an intern in the development area.
-- :zap: **Currently mastering**: Nodejs, Sass, VueJs, Design Patterns, Clean Code.
+- :zap: **Currently mastering**: HTML, CSS, Javascript, Design Patterns, Clean Code.
 - :rocket: **My goals**: Launch a real product with VueJs and Nodejs and To help people through programming.
 - :speech_balloon: We can talk about anything on my discord: **Abantes#2152**
 
