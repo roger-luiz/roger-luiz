@@ -7,7 +7,7 @@
 [![Facebook Badge]( https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/roger3g)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:rogerluiz010@gmail.com)](mailto:rogerluiz010@gmail.com)
 
-- :computer: Web Developer ( Fullstack )
+- :computer: Web Developer
 - :eyes: Looking for an opportunity as an intern in the development area.
 - :zap: **Currently mastering**: Javascript, Vuejs, Nodejs, Design Patterns, Clean Code.
 - :rocket: **My goals**: Launch a real product with VueJs and Nodejs and To help people through programming.
