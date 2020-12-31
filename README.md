@@ -7,7 +7,7 @@
 [![Facebook Badge]( https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/roger3g)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:rogerluiz010@gmail.com)](mailto:rogerluiz010@gmail.com)
 
-- :computer: Web Developer
+- :computer: Web Developer ( Front-end )
 - :eyes: Looking for an opportunity as an intern in the development area.
 - :zap: **Currently mastering**: Javascript, Vuejs, Nodejs, Design Patterns, Clean Code.
 - :rocket: **My goals**: Launch a real product with VueJs and Nodejs and To help people through programming.
@@ -22,7 +22,8 @@
   <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
   <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vue" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+  <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+  <img src="https://devicon.dev/devicon.git/icons/electron/electron-original.svg" alt="electron" width="30" height="30"/>
   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/>
   <img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
 </p>
