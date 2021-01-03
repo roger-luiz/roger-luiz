@@ -16,16 +16,16 @@
 ### Languages and Tools
 
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="html" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="css" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-  <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vue" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/electron/electron-original.svg" alt="electron" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
+  <img src="images/html5-plain-wordmark.svg" alt="html" width="30" height="30"/>
+  <img src="images/css3-plain-wordmark.svg" alt="css" width="30" height="30"/>
+  <img src="images/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+  <img src="images/sass-original.svg" alt="sass" width="30" height="30"/>
+  <img src="images/vuejs-original.svg" alt="vue" width="30" height="30"/>
+  <img src="images/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
+  <img src="images/typescript-original.svg" alt="typescript" width="30" height="30"/>
+  <img src="images/electron-original.svg" alt="electron" width="30" height="30"/>
+  <img src="images/git-original.svg" alt="git" width="30" height="30"/>
+  <img src="images/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/?username=roger3g&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/> </p>
