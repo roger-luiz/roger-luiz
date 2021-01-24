@@ -1,7 +1,7 @@
 # Roger Luiz
 
 <a href="https://gist.github.com/roger3g/94eb77e77ed3edbe4e6ed02b50fe5a12"> 
-  <img src="https://img.shields.io/badge/Portfólio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Portfolio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white"> 
 </a>
 <a href="https://www.linkedin.com/in/roger-luiz/"> 
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roger-luiz/"> 
