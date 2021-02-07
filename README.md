@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abantes_"> 
 </a>
 
+<a href="https://app.rocketseat.com.br/me/rogerluiz"> 
+  <img src="https://img.shields.io/badge/-Rocketseat-41356b?style=flat-square&logo=Rocketseat&logoColor=white&link=https://app.rocketseat.com.br/me/daniel-felizardo"> 
+</a>
+
 - :computer: Web Developer ( Front-end )
 - :eyes: Looking for an opportunity as an intern in the development area.
 - :zap: **Currently mastering**: HTML, CSS, Javascript, Nodejs, SEO, Clean Code.
