@@ -1,21 +1,14 @@
 # Roger Luiz
 
-<a href="https://gist.github.com/roger3g/94eb77e77ed3edbe4e6ed02b50fe5a12"> 
-  <img src="https://img.shields.io/badge/Portfolio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white"> 
-</a>
-<a href="https://www.linkedin.com/in/roger-luiz/"> 
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roger-luiz/"> 
-</a>
-<a href="https://www.instagram.com/rogersluiz_/?hl=pt-br"> 
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"> 
-</a>
-<a href="https://twitter.com/abantes_"> 
-  <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abantes_"> 
-</a>
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white)](https://gist.github.com/roger3g/94eb77e77ed3edbe4e6ed02b50fe5a12)
 
-<a href="https://app.rocketseat.com.br/me/rogerluiz"> 
-  <img src="https://img.shields.io/badge/-Rocketseat-41356b?style=flat-square&logo=Rocketseat&logoColor=white&link=https://app.rocketseat.com.br/me/daniel-felizardo"> 
-</a>
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roger-luiz/)](https://www.linkedin.com/in/roger-luiz/)
+
+[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rogersluiz_/)
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/abantes_)](https://twitter.com/abantes_)
+
+[![Rocketseat Badge](https://img.shields.io/badge/-Rocketseat-41356b?style=flat-square&logo=Rocketseat&logoColor=white&link=https://app.rocketseat.com.br/me/rogerluiz)](https://app.rocketseat.com.br/me/rogerluiz)
 
 - :computer: Web Developer ( Front-end )
 - :eyes: Looking for an opportunity as an intern in the development area.
