@@ -8,8 +8,6 @@
 - :rocket: **My goals**: Launch a real product with VueJs and Nodejs and To help people through programming.
 - :speech_balloon: We can talk about anything on my discord: **Roger Luiz#6588**
 
-### Languages and Tools
-
 <p align="left">
   <img src="images/html5-plain-wordmark.svg" alt="html" width="30" height="30"/>
   <img src="images/css3-plain-wordmark.svg" alt="css" width="30" height="30"/>
@@ -21,8 +19,4 @@
   <img src="images/electron-original.svg" alt="electron" width="30" height="30"/>
   <img src="images/git-original.svg" alt="git" width="30" height="30"/>
   <img src="images/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
-</p>
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/?username=roger3g&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/> 
 </p>
