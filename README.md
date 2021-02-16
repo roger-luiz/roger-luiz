@@ -4,7 +4,7 @@
 
 - :computer: Web Developer ( Front-end )
 - :eyes: Looking for an opportunity as an intern in the development area.
-- :zap: **Currently mastering**: HTML, CSS, Javascript, Nodejs, SEO, Clean Code.
+- :zap: **Currently mastering**: Javascript, Nodejs, APIs, Clean Code.
 - :rocket: **My goals**: Launch a real product with VueJs and Nodejs and To help people through programming.
 - :speech_balloon: We can talk about anything on my discord: **Roger Luiz#6588**
 
