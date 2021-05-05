@@ -5,7 +5,7 @@
 - :computer: Web Developer
 - :eyes: Looking for an opportunity as an intern in the development area.
 - :zap: **Currently learning**: VueJs, Sass, APIs and Clean Code.
-- :rocket: **My goals**: Launch a real product with VueJs and Nodejs and To help people through programming.
+- :rocket: **My goals**: Launch a real product with VueJs and Nodejs
 - :speech_balloon: We can talk about anything on my discord: **Roger Luiz#6588**
 
 <p align="left">
