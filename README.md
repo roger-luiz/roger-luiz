@@ -20,11 +20,3 @@
   <img src="images/git-original.svg" alt="git" width="30" height="30"/>
   <img src="images/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
 </p>
-
-<details>
-  <summary>Technical Information</summary>
-
-  <p align="center">
-    <img alt="Roger's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roger3g&show_icons=true&hide_border=false&count_private=true"/>
-  </p>
-</details>
