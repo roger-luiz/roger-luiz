@@ -26,6 +26,5 @@
 
   <p align="center">
     <img alt="Roger's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roger3g&show_icons=true&hide_border=false&count_private=true"/>
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=roger3g&layout=compact"/> 
   </p>
 </details>
