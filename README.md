@@ -20,3 +20,12 @@
   <img src="images/git-original.svg" alt="git" width="30" height="30"/>
   <img src="images/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
 </p>
+
+<details>
+  <summary>Technical Information</summary>
+
+  <p align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rogerluiz0&layout=compact"/> 
+    <img alt="Roger's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rogerluiz0&show_icons=true&hide_border=false&count_private=true"/>
+  </p>
+</details>
