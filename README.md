@@ -4,7 +4,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roger-luiz/)](https://www.linkedin.com/in/roger-luiz/) 
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rogerluiz.dev/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rogerluizz)](https://twitter.com/rogerluizz) 
-[![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/rogerluiz](https://codepen.io/rogerluiz)](https://codepen.io/rogerluiz) 
 [![Rocketseat Badge](https://img.shields.io/badge/-Rocketseat-41356b?style=flat-square&logo=Rocketseat&logoColor=white&link=https://app.rocketseat.com.br/me/rogerluiz)](https://app.rocketseat.com.br/me/rogerluiz)
 
 - :computer: I'm Front-end Developer. My website: https://rogerluiz.vercel.app/
@@ -21,6 +20,6 @@
   <img src="images/vuejs.svg" alt="vue" width="30" height="30"/>
   <img src="images/git.svg" alt="git" width="30" height="30"/>
   <img src="images/npm.svg" alt="npm" width="30" height="30"/>
-  <img src="images/yarn.svg" alt="npm" width="30" height="30"/>
-  <img src="images/ubunto.svg" alt="npm" width="30" height="30"/>
+  <img src="images/yarn.svg" alt="yarn" width="30" height="30"/>
+  <img src="images/ubuntu.svg" alt="yarn" width="30" height="30"/>
 </p>
