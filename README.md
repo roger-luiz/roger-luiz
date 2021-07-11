@@ -1,4 +1,4 @@
-<img align="right" src="images/coding.png" max-width="400px" width="400px" align="right">
+<img align="right" src="images/coding.png" max-width="350px" width="350px" align="right">
 
 # Roger Luiz
 
