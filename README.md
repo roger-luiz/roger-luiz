@@ -1,3 +1,5 @@
+<img align="right" src="coding.png" max-width="400px" width="400px" align="right">
+
 # Roger Luiz
 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white)](https://gist.github.com/abantes/94eb77e77ed3edbe4e6ed02b50fe5a12) 
