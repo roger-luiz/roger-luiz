@@ -14,8 +14,6 @@
   <img src="images/javascript-original.svg" alt="javascript" width="30" height="30"/> 
   <img src="images/sass-original.svg" alt="sass" width="30" height="30"/>
   <img src="images/vuejs-original.svg" alt="vue" width="30" height="30"/>
-  <img src="images/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
-  <img src="images/typescript-original.svg" alt="typescript" width="30" height="30"/>
   <img src="images/electron-original.svg" alt="electron" width="30" height="30"/>
   <img src="images/git-original.svg" alt="git" width="30" height="30"/>
   <img src="images/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
