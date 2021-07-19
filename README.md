@@ -13,5 +13,5 @@
 - :speech_balloon: We can talk about anything on my discord: __Roger Luiz#6588__
 
 <p align="left">
-  ![git](https://user-images.githubusercontent.com/49411316/121476111-a6799880-c99c-11eb-827e-3daee400719d.png) &nbsp;
+  ![git](https://user-images.githubusercontent.com/49411316/121476111-a6799880-c99c-11eb-827e-3daee400719d.png)
 </p>
