@@ -13,13 +13,11 @@
 - :speech_balloon: We can talk about anything on my discord: __Roger Luiz#6588__
 
 <p align="left">
-  <img src="images/html5.svg" alt="html" width="30" height="30"/>
-  <img src="images/css3.svg" alt="css" width="30" height="30"/>
-  <img src="images/javascript.svg" alt="javascript" width="30" height="30"/> 
-  <img src="images/sass.svg" alt="sass" width="30" height="30"/>
-  <img src="images/vuejs.svg" alt="vue" width="30" height="30"/>
-  <img src="images/git.svg" alt="git" width="30" height="30"/>
-  <img src="images/npm.svg" alt="npm" width="30" height="30"/>
-  <img src="images/yarn.svg" alt="yarn" width="30" height="30"/>
-  <img src="images/ubuntu.svg" alt="yarn" width="30" height="30"/>
+  ![html5](https://user-images.githubusercontent.com/49411316/121476113-a7122f00-c99c-11eb-83c2-ef84807de558.png) &nbsp;
+  ![css3](https://user-images.githubusercontent.com/49411316/121476108-a5e10200-c99c-11eb-89ad-658ce446f8d3.png) &nbsp;
+  ![javascript](https://user-images.githubusercontent.com/49411316/121476117-a7aac580-c99c-11eb-91a6-9cabb28eedd1.png) &nbsp;
+  ![sass](https://user-images.githubusercontent.com/49411316/121513773-9cb65c00-c9c1-11eb-8419-6d82adbcef2c.png) &nbsp;
+  ![vuejs](https://user-images.githubusercontent.com/49411316/121476099-a4afd500-c99c-11eb-82e2-f8232c5ed68b.png) &nbsp;
+  ![node](https://user-images.githubusercontent.com/49411316/121476125-a8dbf280-c99c-11eb-99ec-47740f0ba96d.png) &nbsp;
+  ![git](https://user-images.githubusercontent.com/49411316/121476111-a6799880-c99c-11eb-827e-3daee400719d.png) &nbsp;
 </p>
