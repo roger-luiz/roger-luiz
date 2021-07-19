@@ -1,6 +1,6 @@
 # Roger Luiz
 
-[![Portfolio Badge](assets/portfolio-badge)](https://gist.github.com/abantes/94eb77e77ed3edbe4e6ed02b50fe5a12) 
+[![Portfolio Badge](assets/portfolio-badge.svg)](https://gist.github.com/abantes/94eb77e77ed3edbe4e6ed02b50fe5a12) 
 [![LinkedIn Badge](assets/linkedIn-badge.svg)](https://www.linkedin.com/in/roger-luiz/) 
 [![Instagram Badge](assets/instagram-badge.svg)](https://www.instagram.com/rogerluiz.dev/) 
 [![Twitter Badge](assets/twitter-badge.svg)](https://twitter.com/rogerluizz)
