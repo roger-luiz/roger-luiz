@@ -1,11 +1,11 @@
 # Roger Luiz
 
-[![Portfolio Badge](assets/portfolio-badge.svg)](https://gist.github.com/abantes/94eb77e77ed3edbe4e6ed02b50fe5a12) 
+[![Portfolio Badge](assets/portfolio-badge.svg)](https://rogerluiz.vercel.app/) 
 [![LinkedIn Badge](assets/linkedIn-badge.svg)](https://www.linkedin.com/in/roger-luiz/) 
 [![Instagram Badge](assets/instagram-badge.svg)](https://www.instagram.com/rogerluiz.dev/) 
 [![Twitter Badge](assets/twitter-badge.svg)](https://twitter.com/rogerluizz)
 
-- :computer: I'm Front-end Developer. My website: https://rogerluiz.vercel.app/
+- :computer: I'm Front-end Developer.
 - :eyes: Looking for an opportunity as an intern in the development area.
 - :zap: __Currently learning__: VueJs, Sass, APIs and Clean Code.
 - :rocket: __My goals__: Launch a real product with VueJs and Nodejs
