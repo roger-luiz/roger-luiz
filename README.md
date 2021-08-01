@@ -19,4 +19,5 @@
   <img src="assets/vuejs.png" alt="vuejs" width="30" height="30"/>
   <img src="assets/nodejs.png" alt="node" width="30" height="30"/>
   <img src="assets/git.png" alt="git" width="30" height="30"/>
+  <img src="https://xesque.rocketseat.dev/platform/tech/python.svg" alt="git" width="30" height="30"/>
 </p>
