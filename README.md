@@ -16,8 +16,8 @@
   <img src="assets/css.png" alt="css" width="30" height="30"/>
   <img src="assets/javascript.png" alt="javascript" width="30" height="30"/>
   <img src="assets/sass.png" alt="sass" width="30" height="30"/>
+  <img src="https://xesque.rocketseat.dev/platform/tech/materialize-css.svg" alt="git" width="30" height="30"/>
   <img src="assets/vuejs.png" alt="vuejs" width="30" height="30"/>
   <img src="assets/nodejs.png" alt="node" width="30" height="30"/>
   <img src="assets/git.png" alt="git" width="30" height="30"/>
-  <img src="https://xesque.rocketseat.dev/platform/tech/python.svg" alt="git" width="30" height="30"/>
 </p>
