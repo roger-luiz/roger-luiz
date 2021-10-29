@@ -8,7 +8,7 @@
 - :computer: I'm Front-end Developer.
 - :eyes: Looking for an opportunity as an intern in the development area.
 - :zap: __Currently learning__: VueJs, Sass, APIs and Clean Code.
-- :rocket: __My goals__: Launch a real product with VueJs and Nodejs
+- :rocket: __My goals__: Launch a real product with VueJs and Nodejs.
 - :speech_balloon: We can talk about anything on my discord: __Roger Luiz#6588__
 
 <p align="left">
