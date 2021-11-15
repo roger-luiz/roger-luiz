@@ -12,12 +12,12 @@
 - :speech_balloon: We can talk about anything on my discord: __Roger Luiz#6588__
 
 <p align="left">
-  <img src="assets/html.svg" alt="html" width="30" height="30"/>
-  <img src="assets/css.svg" alt="css" width="30" height="30"/>
-  <img src="assets/javascript.svg" alt="javascript" width="30" height="30"/>
-  <img src="assets/sass.png" alt="sass" width="30" height="30"/>
-  <img src="assets/materialize.svg" alt="materialize" width="30" height="30"/>
-  <img src="assets/vuejs.svg" alt="vuejs" width="30" height="30"/>
-  <img src="assets/node.svg" alt="node" width="30" height="30"/>
-  <img src="assets/git.svg" alt="git" width="30" height="30"/>
+  <img src="assets/html.svg" width="30" height="30"/>
+  <img src="assets/css.svg" width="30" height="30"/>
+  <img src="assets/javascript.svg" width="30" height="30"/>
+
+  <img src="assets/typescript.svg" width="30" height="30"/>
+  <img src="assets/node.svg" width="30" height="30"/>
+  <img src="assets/python.svg" width="30" height="30"/>
+  <img src="assets/git.svg" width="30" height="30"/>
 </p>
