@@ -5,16 +5,19 @@
 [![Instagram Badge](assets/instagram-badge.svg)](https://www.instagram.com/rogerluiz.dev/) 
 [![Twitter Badge](assets/twitter-badge.svg)](https://twitter.com/rogerluizz)
 
-- :computer: I'm Back-end Developer.
+- :computer: I'm Front-end Developer.
 - :eyes: Looking for an opportunity as an intern in the development area.
-- :zap: __Currently learning__: Nodejs, Python, APIs and Clean Code.
-- :rocket: __My goals__: Launch a real product with Nodejs.
+- :zap: __Currently learning__: Nodejs, Vuejs, APIs and Clean Code.
+- :rocket: __My goals__: Launch a real product with Vuejs and Nodejs.
 - :speech_balloon: We can talk about anything on my discord: __Roger Luiz#6588__
 
 <p align="left">
   <img src="assets/html.svg" width="30" height="30"/>
   <img src="assets/css.svg" width="30" height="30"/>
   <img src="assets/javascript.svg" width="30" height="30"/>
+  <img src="assets/sass.svg" width="30" height="30"/>
+  <img src="assets/materialize.svg" width="30" height="30"/>
+  <img src="assets/vuejs.svg" width="30" height="30"/>
   <img src="assets/node.svg" width="30" height="30"/>
   <img src="assets/typescript.svg" width="30" height="30"/>
   <img src="assets/python.svg" width="30" height="30"/>
