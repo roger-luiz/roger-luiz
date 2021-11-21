@@ -2,7 +2,7 @@
 
 [![Portfolio Badge](assets/portfolio-badge.svg)](https://rogerluiz.vercel.app/) 
 [![LinkedIn Badge](assets/linkedIn-badge.svg)](https://www.linkedin.com/in/roger-luiz/) 
-[![Instagram Badge](assets/instagram-badge.svg)](https://www.instagram.com/rogerluiz.dev/) 
+[![Instagram Badge](assets/instagram-badge.svg)](https://www.instagram.com/_rogerluizz/) 
 [![Twitter Badge](assets/twitter-badge.svg)](https://twitter.com/rogerluizz)
 
 - :computer: I'm Front-end Developer.
