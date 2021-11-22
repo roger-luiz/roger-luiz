@@ -5,11 +5,7 @@
 [![Instagram Badge](assets/instagram-badge.svg)](https://www.instagram.com/_rogerluizz/) 
 [![Twitter Badge](assets/twitter-badge.svg)](https://twitter.com/rogerluizz)
 
-- :computer: I'm Front-end Developer.
-- :eyes: Looking for an opportunity as an intern in the development area.
-- :zap: __Currently learning__: Nodejs, Vuejs, APIs and Clean Code.
-- :rocket: __My goals__: Launch a real product with Vuejs and Nodejs.
-- :speech_balloon: We can talk about anything on my discord: __Roger Luiz#6588__
+Meu nome é Roger Luiz, tenho 18 anos e sou estudante de TI. Sou desenvolvedor Back-end, tenho estudado sobre Front-end ultimamente também. Estou Em busca da minha primeira oportunidade como estagiário na área de programação. Tenho interesse enorme por Data Science e pretendo cursar no futuro.
 
 <p align="left">
   <img src="assets/html.svg" width="30" height="30"/>
