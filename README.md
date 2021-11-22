@@ -5,7 +5,7 @@
 [![Instagram Badge](assets/instagram-badge.svg)](https://www.instagram.com/_rogerluizz/) 
 [![Twitter Badge](assets/twitter-badge.svg)](https://twitter.com/rogerluizz)
 
-Meu nome é Roger Luiz, tenho 18 anos e sou estudante de TI. Sou desenvolvedor Back-end, tenho estudado sobre Front-end ultimamente também. Estou Em busca da minha primeira oportunidade como estagiário na área de programação. Tenho interesse enorme por Data Science e pretendo cursar no futuro.
+<p>Meu nome é Roger Luiz, tenho 18 anos e sou estudante de TI. Sou desenvolvedor Back-end, tenho estudado sobre Front-end ultimamente também. Estou Em busca da minha primeira oportunidade como estagiário na área de programação. Tenho interesse enorme por Data Science e pretendo cursar no futuro.</p>
 
 <p align="left">
   <img src="assets/html.svg" width="30" height="30"/>
