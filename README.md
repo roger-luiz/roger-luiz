@@ -5,10 +5,10 @@
 [![Instagram Badge](assets/instagram-badge.svg)](https://www.instagram.com/_rogerluizz/) 
 [![Twitter Badge](assets/twitter-badge.svg)](https://twitter.com/rogerluizz)
 
-- :computer: I'm Front-end Developer.
+- :computer: I'm Back-end Developer.
 - :eyes: Looking for an opportunity as an intern in the development area.
-- :zap: __Currently learning__: Nodejs, Vuejs, APIs and Clean Code.
-- :rocket: __My goals__: Launch a real product with Vuejs and Nodejs.
+- :zap: __Currently learning__: Nodejs, SQL, APIs and Clean Code.
+- :rocket: __My goals__: Launch a real product with Nodejs.
 - :speech_balloon: We can talk about anything on my discord: __Roger Luiz#6588__
 
 <p align="left">
