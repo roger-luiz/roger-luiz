@@ -5,11 +5,7 @@
 [![Instagram Badge](assets/instagram-badge.svg)](https://www.instagram.com/_rogerluizz/) 
 [![Twitter Badge](assets/twitter-badge.svg)](https://twitter.com/rogerluizz)
 
-- :computer: I'm Back-end Developer.
-- :eyes: Looking for an opportunity as an intern in the development area.
-- :zap: __Currently learning__: Nodejs, SQL, APIs and Clean Code.
-- :rocket: __My goals__: Launch a real product with Nodejs.
-- :speech_balloon: We can talk about anything on my discord: __Roger Luiz#6588__
+My name is Roger Luiz, I'm 18 years old, I live in the state of Minas and I'm an IT student. I'm a Back-end developer, I've been studying Front-end lately too. I'm looking for my first opportunity as an intern in the programming area. I am very interested in Data Science and intend to study in the future.
 
 <p align="left">
   <img src="assets/html.svg" width="30" height="30"/>
