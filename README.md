@@ -7,6 +7,7 @@ My name is Roger Luiz, I'm 18 years old, I live in the state of Minas and I'm an
   <img src="assets/typescript.svg" width="30" height="30"/>
   <img src="assets/node.svg" width="30" height="30"/>
   <img src="assets/postgresql.svg" width="30" height="30"/>
+  <img src="assets/graphql.svg" width="30" height="30"/>
   <img src="assets/socket-io.svg" width="30" height="30"/>
   <img src="assets/git.svg" width="30" height="30"/>
 </p>
