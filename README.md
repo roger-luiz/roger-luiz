@@ -1,6 +1,9 @@
 # Roger Fernando
 
-My name is Roger Fernando Luiz, I'm 18 years old, I live in the state of Minas and I'm an IT student. I'm a Back-end developer, I've been studying Front-end lately too. I'm looking for my first opportunity as an intern in the programming area. I am very interested in Data Science and intend to study in the future.
+- :computer: I'm Back-end Developer.
+- :eyes: Looking for an opportunity as an intern in the development area.
+- :zap: __Currently learning__: Nodejs, Typescript, APIs and Clean Code.
+- :rocket: __My goals__: Launch a real product with Nodejs.
 
 <p align="left">
   <img src="assets/javascript.svg" width="30" height="30"/>
