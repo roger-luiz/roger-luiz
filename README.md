@@ -7,7 +7,7 @@
 
 <p align="left">
   <img src="assets/node.svg" width="30" height="30"/>
+  <img src="assets/javascript.svg" width="30" height="30"/>
   <img src="assets/typescript.svg" width="30" height="30"/>
-  <img src="assets/electron.svg" width="30" height="30"/>
   <img src="assets/git.svg" width="30" height="30"/>
 </p>
