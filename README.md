@@ -13,6 +13,5 @@
   <img src="assets/vuejs.svg" width="30" height="30"/>
   <img src="assets/node.svg" width="30" height="30"/>
   <img src="assets/typescript.svg" width="30" height="30"/>
-  <img src="assets/postgresql.svg" width="30" height="30"/>
   <img src="assets/git.svg" width="30" height="30"/>
 </p>
