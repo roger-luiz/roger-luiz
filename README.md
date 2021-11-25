@@ -2,7 +2,7 @@
 
 - :computer: I'm Front-end Developer.
 - :eyes: Looking for an opportunity as an intern in the development area.
-- :zap: __Currently learning__: Nodejs, Typescript, APIs and Clean Code.
+- :zap: __Currently learning__: Nodejs, Vuejs and Clean Code.
 - :rocket: __My goals__: Launch a real product with Nodejs.
 
 <p align="left">
