@@ -9,8 +9,5 @@
   <img src="assets/node.svg" width="30" height="30"/>
   <img src="assets/javascript.svg" width="30" height="30"/>
   <img src="assets/typescript.svg" width="30" height="30"/>
-  <img src="assets/postgresql.svg" width="30" height="30"/>
-  <img src="assets/graphql.svg" width="30" height="30"/>
-  <img src="assets/github-actions.svg" width="30" height="30"/>
   <img src="assets/git.svg" width="30" height="30"/>
 </p>
