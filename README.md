@@ -1,9 +1,10 @@
-# Roger Fernando
+## Hi there, I'm Roger
 
-- :computer: I'm Web Developer.
+- :computer: I'm Front-end Developer.
 - :eyes: Looking for an opportunity as an intern in the development area.
-- :zap: __Currently learning__: ReactJs, Typescript and Clean Code.
-- :rocket: __My goals__: Launch a real product with ReactJs and NodeJs.
+- :zap: I'm currently studying Reactjs, Typescript and Clean Code.
+- :rocket: My goal is Launch a real product with ReactJs and NodeJs.
+- :speech_ballon you can talk to me if you need help.
 
 <p align="left">
   <img src="assets/reactjs.svg" width="30" height="30"/>
