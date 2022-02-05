@@ -4,7 +4,7 @@
 - :eyes: Looking for an opportunity as an intern in the development area.
 - :zap: I'm currently studying Reactjs, Typescript and Clean Code.
 - :rocket: My goal is Launch a real product with ReactJs and NodeJs.
-- 💬 you can talk to me if you need help.
+- 💬 You can talk to me if you need help.
 
 <p align="left">
   <img src="assets/reactjs.svg" width="30" height="30"/>
