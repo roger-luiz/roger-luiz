@@ -7,9 +7,9 @@
 - 💬 You can talk to me if you need help.
 
 <p align="left">
+  <img src="assets/vuejs.svg" width="30" height="30"/>
   <img src="assets/reactjs.svg" width="30" height="30"/>
   <img src="assets/typescript.svg" width="30" height="30"/>
   <img src="assets/node.svg" width="30" height="30"/>
-  <img src="assets/electron.svg" width="30" height="30"/>
   <img src="assets/git.svg" width="30" height="30"/>
 </p>
