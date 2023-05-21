@@ -3,10 +3,10 @@
 My name is Roger Fernando from Brazil (🇧🇷). I'm a front-end development student and currently. I'm passionate about open source projects, so I try to create projects that can add to my career and to the community.
 
 <p>
-  <img src="./assets/html5.svg" />
+  <img src="./assets/html5.svg" width ="10px"/>
   <img src="./assets/css3.svg" />
   <img src="./assets/javascript.svg" />
-  <img src="./assets/nodejs.svg" />
+  <img src="./assets/node.svg" />
   <img src="./assets/reactjs.svg" />
   <img src="./assets/typescript.svg" />
   <img src="./assets/sass.png" />
