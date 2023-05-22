@@ -1,17 +1,11 @@
 ### Hi there! 😁
 
-My name is Roger Fernando from Brazil (🇧🇷). I'm a front-end development student and currently looking to develop myself as a programmer and create a solid career. I'm passionate about open source projects, so I try to create projects that can add to my career and to the community.
+My name is Roger Fernando from Brazil (🇧🇷). I'm a back-end development student and currently looking to develop myself as a programmer and create a solid career. I'm passionate about open source projects, so I try to create projects that can add to my career and to the community.
 
 <p>
-  <img src="./assets/html5.svg" width ="30px"/>
-  <img src="./assets/css3.svg" width ="30px"/>
   <img src="./assets/javascript.svg" width ="30px"/>
   <img src="./assets/node.svg" width ="30px"/>
-  <img src="./assets/reactjs.svg" width ="30px"/>
   <img src="./assets/typescript.svg" width ="30px"/>
-  <img src="./assets/sass.png" width ="30px"/>
-  <img src="./assets/tailwind.svg" width ="30px"/>
-  <img src="./assets/nextjs.svg" width ="30px"/>
   <img src="./assets/graphql.svg" width ="30px"/>
   <img src="./assets/git.svg" width ="30px"/>
 </p>
