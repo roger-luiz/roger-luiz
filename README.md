@@ -4,10 +4,12 @@ My name is Roger Fernando from Brazil (🇧🇷). I'm a back-end development stu
 
 <p>
   <img src="./assets/javascript.svg" width ="30px"/>
-  <img src="./assets/node.svg" width ="30px"/>
   <img src="./assets/typescript.svg" width ="30px"/>
+  <img src="./assets/node.svg" width ="30px"/>
+  <img src="./assets/nestjs.svg" width ="30px"/>
   <img src="./assets/graphql.svg" width ="30px"/>
   <img src="./assets/git.svg" width ="30px"/>
+  <img src="./assets/github-actions.svg" width ="30px"/>
 </p>
 
 Would you like to find me?
