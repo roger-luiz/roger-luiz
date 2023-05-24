@@ -3,6 +3,7 @@
 My name is Roger Fernando from Brazil (🇧🇷). I'm a back-end development student and currently looking to develop myself as a programmer and create a solid career. I'm passionate about open source projects, so I try to create projects that can add to my career and to the community.
 
 <p>
+  <img src="./assets/reactjs.svg" width ="30px"/>
   <img src="./assets/javascript.svg" width ="30px"/>
   <img src="./assets/typescript.svg" width ="30px"/>
   <img src="./assets/node.svg" width ="30px"/>
