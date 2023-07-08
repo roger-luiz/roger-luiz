@@ -3,11 +3,10 @@
 I'm Roger Fernando from Brazil (🇧🇷). I'm a back-end development and currently looking to develop myself as a programmer and create a solid career. I'm passionate about open source projects, so I try to create projects that can add to my career and to the community.
 
 <p>
-  <img src="./assets/reactjs.svg" width ="30px"/>
-  <img src="./assets/javascript.svg" width ="30px"/>
-  <img src="./assets/typescript.svg" width ="30px"/>
-  <img src="./assets/node.svg" width ="30px"/>
-  <img src="./assets/nestjs.svg" width ="30px"/>
+  <img src="./assets/python.svg" width ="30px"/>
+  <img src="./assets/flask.svg" width ="30px"/>
+  <img src="./assets/django.svg" width ="30px"/>
+  <img src="./assets/gcp.svg" width ="30px"/>
   <img src="./assets/graphql.svg" width ="30px"/>
   <img src="./assets/git.svg" width ="30px"/>
   <img src="./assets/github-actions.svg" width ="30px"/>
