@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-I'm Roger Fernando from Brazil (🇧🇷). I'm a web developer and currently looking to develop myself as a programmer and create a solid career. I'm passionate about open source projects, so I try to create projects that can add to my career and to the community.
+I'm Roger Fernando from Brazil (🇧🇷). I'm a C# and C++ developer and currently looking to develop myself as a programmer. I'm passionate about open source projects, so I try to create projects that can add to my career and to the community.
 
 Would you like to find me?
 
