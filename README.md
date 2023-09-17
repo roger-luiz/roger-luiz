@@ -5,5 +5,6 @@ I'm Roger Fernando from Brazil (🇧🇷). I'm a back-end developer, currently d
 Would you like to find me?
 
 <p>
-  <img src='./assets/python.svg' width='80px' />
+  <img src='./assets/python.svg' width='50px' />
+  
 </p>
