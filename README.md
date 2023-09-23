@@ -8,6 +8,8 @@ Back-end Developer
   <img src='./assets/flask.svg' width='30px' />
   <img src='./assets/ruby.svg' width='30px' />
   <img src='./assets/ruby-on-rails.svg' width='30px' />
+  <img src='./assets/c-sharp.svg' width='30px' />
+  <img src='./assets/asp-net.svg' width='30px' />
   <img src='./assets/git.svg' width='30px' />
 </p>
 
