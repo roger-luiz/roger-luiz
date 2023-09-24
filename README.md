@@ -1,4 +1,4 @@
-# Roger <img src='./assets/python.svg' width='25px' />  <img src='./assets/flask.svg' width='25px' /> <img src='./assets/django.svg' width='25px' /> <img src='./assets/c-sharp.svg' width='25px' /> <img src='./assets/dot-net.svg' width='25px' />
+# Roger <img src='./assets/python.svg' width='25px' />  <img src='./assets/flask.svg' width='25px' /> <img src='./assets/django.svg' width='25px' /> <img src='./assets/c-sharp.svg' width='25px' /> <img src='./assets/dotnet.svg' width='25px' />
 
 Back-end developer.
 
