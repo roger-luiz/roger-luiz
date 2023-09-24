@@ -1,16 +1,12 @@
-### Hi there! 😁
+# Roger
 
-Back-end Developer
+Software Engineer.
 
-<p>
-  <img src='./assets/python.svg' width='30px' />
-  <img src='./assets/django.svg' width='30px' />
-  <img src='./assets/flask.svg' width='30px' />
-  <img src='./assets/ruby.svg' width='30px' />
-  <img src='./assets/ruby-on-rails.svg' width='30px' />
-  <img src='./assets/c-sharp.svg' width='30px' />
-  <img src='./assets/asp-net.svg' width='30px' />
-  <img src='./assets/git.svg' width='30px' />
-</p>
+Formerly at [@Alura](https://www.alura.com.br/), [@Rocketseat](https://rocketseat.com.br).
 
-I'm Roger from Minas Gerais (🇧🇷), I'm a back-end developer in Python, Ruby and C#, **Python** being my main study and work language. I'm working day after day to create a solid base of knowledge in back-end development. In addition to solving problems in the back-end ecosystem, I enjoy using Python to solve day-to-day problems with algorithms and automation scripts.
+Back-end, Database, and Performance are my favorite topics.
+
+Twitter: [@rogerflan](https://twitter.com/rogerflan)  
+LinkedIn: [@roger-luiz](http://linkedin.com/in/roger-luiz)
+
+Reach out at [rogerfernandoluiz@gmail.com](mailto:rogerfernandoluiz@gmail.com)
