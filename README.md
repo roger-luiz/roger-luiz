@@ -1,6 +1,6 @@
 # Roger
 
-Software Engineer.
+Back-end developer.
 
 Formerly at [@Alura](https://www.alura.com.br/), [@Rocketseat](https://rocketseat.com.br).
 
