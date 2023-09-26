@@ -2,9 +2,11 @@
 
 Back-end developer.
 
-Formerly at [@Alura](https://www.alura.com.br/).
+Formerly at [@Microsoft](https://www.microsoft.com/pt-br), [@Alura](https://www.alura.com.br/).
 
 APIs, SQL and Data Structures are my favorite topics.
 
-Reach out at [rogerfernandoluiz@gmail.com](mailto:rogerfernandoluiz@gmail.com)
+Twitter: [@rogerflan](https://twitter.com/rogerflan)  
+LinkedIn: [@roger-luiz](http://linkedin.com/in/roger-luiz)
 
+Reach out at [rogerfernandoluiz@gmail.com](mailto:rogerfernandoluiz@gmail.com)
