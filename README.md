@@ -2,12 +2,9 @@
 
 Back-end developer.
 
-Formerly at [@Alura](https://www.alura.com.br/), [@Rocketseat](https://rocketseat.com.br).
+Formerly at [@Alura](https://www.alura.com.br/).
 
 APIs, SQL and Data Structures are my favorite topics.
-
-Twitter: [@rogerflan](https://twitter.com/rogerflan)  
-LinkedIn: [@roger-luiz](http://linkedin.com/in/roger-luiz)
 
 Reach out at [rogerfernandoluiz@gmail.com](mailto:rogerfernandoluiz@gmail.com)
 
