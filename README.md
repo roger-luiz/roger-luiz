@@ -2,7 +2,7 @@
 
 Back-end developer.
 
-Formerly at [@Microsoft](https://www.microsoft.com/pt-br), [@Alura](https://www.alura.com.br/).
+Graduated at [@Microsoft](https://www.microsoft.com/pt-br), [@Alura](https://www.alura.com.br/).
 
 APIs, SQL and Data Structures are my favorite topics.
 
