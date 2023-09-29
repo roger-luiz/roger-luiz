@@ -6,7 +6,7 @@ Graduated at [@Microsoft](https://www.microsoft.com/pt-br), [@Alura](https://www
 
 APIs, SQL and Data Structures are my favorite topics.
 
-Twitter: [@rogerflan](https://twitter.com/rogerflan)
+Twitter: [@rogerflan](https://twitter.com/rogerflan) 
 LinkedIn: [@roger-luiz](http://linkedin.com/in/roger-luiz)
 
 Reach out at [rogerfernandoluiz@gmail.com](mailto:rogerfernandoluiz@gmail.com)
