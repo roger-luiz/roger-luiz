@@ -1,5 +1,3 @@
-# Roger <img src='./assets/python.svg' width='25px' />  <img src='./assets/flask.svg' width='25px' /> <img src='./assets/django.svg' width='25px' /> <img src='./assets/postgresql.svg' width='25px' /> <img src='./assets/mongodb.svg' width='25px' /> <img src='./assets/graphql.svg' width='25px' /> <img src='./assets/docker.svg' width='25px' /> <img src='./assets/kubernetes.svg' width='25px' />
-
 Back-end developer.
 
 Graduated at [@Microsoft](https://www.microsoft.com/pt-br), [@Alura](https://www.alura.com.br/).
