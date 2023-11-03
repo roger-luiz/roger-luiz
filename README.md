@@ -11,4 +11,4 @@ LinkedIn: [@roger-luiz](http://linkedin.com/in/roger-luiz)
 
 Reach out at [rogerfernandoluiz@gmail.com](mailto:rogerfernandoluiz@gmail.com)
 
-<img src='./assets/python.svg' width='25px' />  <img src='./assets/flask.svg' width='25px' /> <img src='./assets/django.svg' width='25px' /> <img src='./assets/postgresql.svg' width='25px' /> <img src='./assets/graphql.svg' width='25px' /> <img src='./assets/docker.svg' width='25px' /> <img src='./assets/kubernetes.svg' width='25px' />
+<img src='./assets/python.svg' width='25px' />  <img src='./assets/flask.svg' width='25px' /> <img src='./assets/django.svg' width='25px' /> <img src='./assets/postgresql.svg' width='25px' /> <img src='./assets/graphql.svg' width='25px' /> <img src='./assets/socket-io.svg' width='25px' /> <img src='./assets/docker.svg' width='25px' /> <img src='./assets/kubernetes.svg' width='25px' />
