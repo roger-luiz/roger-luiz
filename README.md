@@ -2,7 +2,7 @@
 
 Computer Science.
 
-Graduated at [@Microsoft](https://www.microsoft.com/pt-br), [@Alura](https://www.alura.com.br/).
+Graduated at [@Una](https://lp-ead.una.br/#hero), [@Alura](https://www.alura.com.br/).
 
 Algorithms, SQL and Data Structures are my favorite topics.
 
