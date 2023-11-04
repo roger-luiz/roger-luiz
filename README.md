@@ -1,10 +1,10 @@
 # Roger Fernando
 
-Back-end developer.
+Computer Science.
 
 Graduated at [@Microsoft](https://www.microsoft.com/pt-br), [@Alura](https://www.alura.com.br/).
 
-APIs, SQL and Data Structures are my favorite topics.
+Algorithms, SQL and Data Structures are my favorite topics.
 
 Twitter: [@rogerflan](https://twitter.com/rogerflan)  
 LinkedIn: [@roger-luiz](http://linkedin.com/in/roger-luiz)
