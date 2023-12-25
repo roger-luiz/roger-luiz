@@ -1,5 +1,3 @@
-# Roger Fernando
-
 Bachelor of Computer Science.
 
 Algorithms, SQL and Data Structures are my favorite topics.
