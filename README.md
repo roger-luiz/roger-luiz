@@ -1,6 +1,6 @@
 Bachelor of Computer Science.
 
-task automation and SQL are my favorite topics.
+Task automation and SQL are my favorite topics.
 
 LinkedIn: [@roger-luiz](http://linkedin.com/in/roger-luiz)
 
