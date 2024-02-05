@@ -1,8 +1,6 @@
 Bachelor of Computer Science.
 
-APIs and SQL are my favorite topics.
-
-LinkedIn: [@roger-luiz](http://linkedin.com/in/roger-luiz)
+Algorithms and SQL are my favorite topics.
 
 Reach out at [rogerluizflan@gmail.com](mailto:rogerluizflan@gmail.com)
 
