@@ -1,9 +1,14 @@
-## Roger Fernando
+# Roger
 
 Bachelor of Computer Science.
 
-[![Instagram Badge](https://img.shields.io/badge/-@rogerflan-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://www.instagram.com/rogerflan/)](https://www.instagram.com/rogerflan/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Roger%20Fernando-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roger-fernando/)](https://www.linkedin.com/in/roger-fernando/) 
-[![Gmail Badge](https://img.shields.io/badge/-rogerluizflan@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rogerluizflan@gmail.com)](mailto:rogerluizflan@gmail.com)
+Hi, I'm a backend developer and DBA, Algorithms and SQL are my favorite topics. At present I am specializing in C# and SQL Server
 
-Hi, I'm Roger, I'm a backend developer and DBA, Algorithms and SQL are my favorite topics. At present I am specializing in Python and PostgreSQL
+Instagram: [@rogerflan](https://www.instagram.com/rogerflan/)  
+LinkedIn: [@roger-fernando](https://linkedin.com/in/roger-fernando)
+
+Reach out at [rogerluizflan@gmail.com](mailto:rogerluizflan@gmail.com)
+
+[![Instagram Badge](https://img.shields.io/badge/-@rogerflan-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://www.instagram.com/rogerflan/)](https://www.instagram.com/rogerflan/)
+
+<img src="./assets/c-sharp.svg" width="25px" /> <img src="./assets/asp-net.svg" width="25px" /> <img src="./assets/dot-net.svg" width="25px" /> <img src="./assets/sql-server.svg" width="25px" />
