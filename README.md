@@ -2,7 +2,7 @@
 
 Bachelor of Computer Science.
 
-Hi, I'm a backend developer and DBA, Algorithms and SQL are my favorite topics. At present I am specializing in C# and SQL Server
+Back-end developer for 1 year.
 
 Instagram: [@rogerflan](https://www.instagram.com/rogerflan/)  
 LinkedIn: [@roger-fernando](https://linkedin.com/in/roger-fernando)
