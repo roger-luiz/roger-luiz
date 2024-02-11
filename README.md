@@ -1,6 +1,6 @@
 ## Roger
 
-Bachelor of Computer Science
+Bachelor of Computer Science.
 
 Back-end developer and database administration using the Python and SQL. I'm interested in the Linux ecosystem, distributions and their variations, applications of the Linux Kernel, how it works, etc. I am also interested in algorithms and their applications.
 
