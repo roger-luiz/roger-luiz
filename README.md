@@ -7,4 +7,4 @@ LinkedIn: [@roger-fernando](https://linkedin.com/in/roger-fernando)
 
 Reach out at [rogerluizflan@gmail.com](mailto:rogerluizflan@gmail.com)
 
-<img src="./assets/c-sharp.svg" width="30px" /> <img src="./assets/asp-net.svg" width="30px" /> <img src="./assets/dot-net.svg" width="30px" /> <img src="./assets/mysql.svg" width="30px" /> <img src="./assets/azure.svg" width="30px" /> <img src="./assets/angularjs.svg" width="30px" />
+<img src="./assets/python.svg" width="30px" /> <img src="./assets/cplusplus.svg" width="30px" /> <img src="./assets/postgresql.svg" width="30px" /> <img src="./assets/docker.svg" width="30px" /> <img src="./assets/kubernetes.svg" width="30px" /> <img src="./assets/graphql.svg" width="30px" /> <img src="./assets/git.svg" width="30px" />
