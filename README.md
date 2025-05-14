@@ -2,7 +2,7 @@
 
 Software Engineer and Bachelor of Computer Science.
 
-Currently data analyst at [@BestBoy](https://www.bestboy.com.br/)
+Currently network analyst at [@Mamtech](https://mamtecnologia.com.br/),
 
 SQL, Networks, and Data Science are my favorite topics.
 
