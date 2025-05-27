@@ -1,10 +1,8 @@
 # Roger Fernando
 
-Software Engineer and Bachelor of Computer Science.
+Network Analyst at [@Mamtech](https://mamtecnologia.com.br/) and Bachelor of Computer Science.
 
-Currently network analyst at [@Mamtech](https://mamtecnologia.com.br/),
-
-SQL, Networks, and Data Science are my favorite topics.
+BGP, Firewall, and Linux are my favorite topics.
 
 Instagram: [@rogerflan](https://www.instagram.com/rogerflan/)  
 LinkedIn: [@roger-fernando](https://www.linkedin.com/in/roger-fernando/)
