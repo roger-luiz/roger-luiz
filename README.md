@@ -1,6 +1,6 @@
 # Roger Fernando
 
-Network Analyst at [@Mamtech]([https://mamtecnologia.com.br/](https://www.linkedin.com/company/mamtechtecnologia/posts/?feedView=all)) and Bachelor of Computer Science.
+Network Analyst at [@Mamtech](https://www.linkedin.com/company/mamtechtecnologia/posts/?feedView=all) and Bachelor of Computer Science.
 
 BGP, Firewall, and Linux are my favorite topics.
 
